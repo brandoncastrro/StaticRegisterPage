@@ -1,0 +1,58 @@
+body {
+    background-color: #8a5353;
+    margin: 0 auto 0 auto;
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    text-align: right;
+    padding: 2%;
+    background-color: wheat;
+}
+
+button {
+    background-color: #8a5353;
+}
+
+.box {
+    margin: auto;
+    height: 520px;
+    width: 360px;
+    background-color: wheat;
+    border-radius: 6px;
+}
+
+form {
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    padding: 5%;
+}
+
+footer {
+    text-align: center;
+}
+
+.EMAIL {
+    padding: 3%;
+}
+
+.USERNAME {
+    padding: 3%;
+}
+
+.PASSWORD {
+    padding: 3%;
+}
+
+.CONFIRM {
+    padding: 3%;
+}
+
+.SUBMIT {
+    padding: 3%;
+}
